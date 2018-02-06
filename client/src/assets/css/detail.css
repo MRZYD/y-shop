@@ -1,0 +1,44 @@
+.detail {
+  max-width: 880px;
+  height: 500px;
+  margin: 0 auto;
+  padding: 0 10px;
+  font-size: 14px;
+}
+.detail-catalog{
+  width: 385px;
+  float: left;
+  padding: 15px;
+}
+.detail-body {
+  float: left;
+  max-width: 540px;
+}
+.detail-img {
+  width: 100%;
+  height: 100%;
+}
+.detail-gn,.detail-gs {
+  float: left;
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  line-height: 30px;
+  margin: 10px;
+  background-color: #fff;
+  border: 1px solid #d1434a;
+  color: #d1434a;  
+  border-radius: 5px;
+}
+.detail-button {
+  float: left;
+  width: 125px;
+  height: 30px;
+  text-align: center;
+  line-height: 30px;
+  margin: 10px;
+  background-color: #fff;
+  border: 1px solid #d1434a;
+  color: #d1434a;
+  border-radius: 5px;
+}
